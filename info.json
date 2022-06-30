@@ -1,0 +1,26 @@
+{
+  "name": "Mario Leon",
+  "website": "https://moose0007.github.io/",
+  "linkedin": "https://www.linkedin.com/in/mario-leon-401167122/",
+  "github": "moose0007",
+  "email": "mario.alexander.leon@gmail.com",
+  "resume": "https://tomatohammado.github.io/assets/Mario-Leon-Resume.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Vue",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Wordpress",
+    "Drupal"
+  ],
+  "otherSkills": [
+    "Unagi",
+    "Five Finger Fillet",
+    "Bridge"
+  ]
+}
